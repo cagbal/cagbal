@@ -13,4 +13,10 @@ Github suggested that I add some interests of mine, so let's add some:
 - 🐶 We have a lovely, playful, kind, and not so small family member, Biber. He is a red-rust doberman.
 
 
-<img src="https://github.com/user-attachments/assets/806b0f13-3a28-40d3-b597-cde2b8243865" width="400">
+<table>
+  <tr>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/806b0f13-3a28-40d3-b597-cde2b8243865" width="400"></td>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/8b6ec705-6f79-4125-be6d-d98aacf7329d" width="400"></td>
+  </tr>
+</table>
+
